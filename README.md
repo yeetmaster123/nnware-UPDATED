@@ -10,7 +10,6 @@ Again i updated it so here-
 + Fakewalk speed (from refix.cc (prob could have done it my self :1f61d: ))
 - No flash (didn't work)
 + more trash talking features
-https://www.mediafire.com/file/zsgixdybf11y1v5/nnware_wit_out_virus_LMAO.zip/file
 https://gyazo.com/4c5bc66f259da29aaf79746d30730059
 https://gyazo.com/d27bb9d2b4a62e141e393e021e5cf2c1
 https://gyazo.com/a2e8eb920ef0a5c23ae7e5b3bf08f31e
