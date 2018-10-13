@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="FEATURES">
+      <UniqueIdentifier>{966c9c01-8b7b-4d54-98ab-3c4c75d8bfcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK">
+      <UniqueIdentifier>{c7a31240-c783-42b3-ac54-bc041a75700c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UTILS">
+      <UniqueIdentifier>{fb821c2b-4103-4f76-b6cf-0d376e77b305}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HOOKS">
+      <UniqueIdentifier>{03b9cfa7-aa6f-482d-85a9-8cfac1cda7a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MENU">
+      <UniqueIdentifier>{6764f9b5-5cb1-4688-8648-b406d27ca042}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FEATURES\Aimbot.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="FEATURES\AntiAim.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="FEATURES\AutoWall.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="FEATURES\Backtracking.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="FEATURES\Chams.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="FEATURES\EnginePred.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="FEATURES\EventListener.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="FEATURES\FakeLag.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="FEATURES\Fakewalk.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="FEATURES\Flashlight.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="FEATURES\GrenadePrediction.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="FEATURES\Legitbot.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="FEATURES\Movement.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="FEATURES\Resolver.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="FEATURES\Visuals.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\CGlobalVars.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\sdk.cpp">
+      <Filter>SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="UTILS\general_utils.cpp">
+      <Filter>UTILS</Filter>
+    </ClCompile>
+    <ClCompile Include="UTILS\input_handler.cpp">
+      <Filter>UTILS</Filter>
+    </ClCompile>
+    <ClCompile Include="UTILS\interfaces.cpp">
+      <Filter>UTILS</Filter>
+    </ClCompile>
+    <ClCompile Include="UTILS\logging.cpp">
+      <Filter>UTILS</Filter>
+    </ClCompile>
+    <ClCompile Include="UTILS\math.cpp">
+      <Filter>UTILS</Filter>
+    </ClCompile>
+    <ClCompile Include="UTILS\offsets.cpp">
+      <Filter>UTILS</Filter>
+    </ClCompile>
+    <ClCompile Include="UTILS\render.cpp">
+      <Filter>UTILS</Filter>
+    </ClCompile>
+    <ClCompile Include="UTILS\spoofedconvar.cpp">
+      <Filter>UTILS</Filter>
+    </ClCompile>
+    <ClCompile Include="UTILS\variables.cpp">
+      <Filter>UTILS</Filter>
+    </ClCompile>
+    <ClCompile Include="UTILS\vmt.cpp">
+      <Filter>UTILS</Filter>
+    </ClCompile>
+    <ClCompile Include="HOOKS\hooks.cpp">
+      <Filter>HOOKS</Filter>
+    </ClCompile>
+    <ClCompile Include="MENU\menu_commands.cpp">
+      <Filter>MENU</Filter>
+    </ClCompile>
+    <ClCompile Include="MENU\menu_framework.cpp">
+      <Filter>MENU</Filter>
+    </ClCompile>
+    <ClCompile Include="MENU\menu_init.cpp">
+      <Filter>MENU</Filter>
+    </ClCompile>
+    <ClCompile Include="MENU\menu_objects.cpp">
+      <Filter>MENU</Filter>
+    </ClCompile>
+    <ClCompile Include="AWHitmarkers.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="NetVar.cpp">
+      <Filter>UTILS</Filter>
+    </ClCompile>
+    <ClCompile Include="Skinchanger.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="Stickerchanger.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="Glovechanger.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="recv.cpp">
+      <Filter>FEATURES</Filter>
+    </ClCompile>
+    <ClCompile Include="xdxdxd.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FEATURES\Aimbot.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="FEATURES\AntiAim.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="FEATURES\AutoWall.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="FEATURES\Backtracking.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="FEATURES\Chams.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="FEATURES\EnginePred.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="FEATURES\EventListener.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="FEATURES\FakeLag.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="FEATURES\Fakewalk.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="FEATURES\Flashlight.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="FEATURES\GrenadePrediction.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="FEATURES\Legitbot.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="FEATURES\Movement.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="FEATURES\Resolver.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="FEATURES\Visuals.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\AnimLayer.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CBaseAnimating.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CBaseAnimState.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CBaseEntity.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CBaseWeapon.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CClientEntityList.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CGlobalVars.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CGlowObjectManager.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\Checksum_CRC.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CInput.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CInputSystem.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\Collideable.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\ConVar.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CPanel.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CPrediction.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CTrace.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CUserCmd.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CViewSetup.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\GameEvents.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\IClient.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\IEngine.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\IMaterial.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\IMemAlloc.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\INetChannelInfo.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\ISurface.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\IVDebugOverlay.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\IViewRenderBeams.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\ModelInfo.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\ModelRender.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\NetChannel.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\player_info_t.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\RecvData.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\RenderView.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\StudioRender.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\SurfaceData.h">
+      <Filter>SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\color.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\CUtlVector.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\general_utils.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\input_handler.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\interfaces.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\logging.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\math.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\offsets.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\playerinclude.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\qangle.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\quaternion.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\render.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\variables.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\vector2D.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\vector3D.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\vmatrix.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="UTILS\vmt.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="HOOKS\hooks.h">
+      <Filter>HOOKS</Filter>
+    </ClInclude>
+    <ClInclude Include="MENU\Components.h">
+      <Filter>MENU</Filter>
+    </ClInclude>
+    <ClInclude Include="MENU\menu_commands.h">
+      <Filter>MENU</Filter>
+    </ClInclude>
+    <ClInclude Include="MENU\menu_defines.h">
+      <Filter>MENU</Filter>
+    </ClInclude>
+    <ClInclude Include="MENU\menu_framework.h">
+      <Filter>MENU</Filter>
+    </ClInclude>
+    <ClInclude Include="MENU\menu_objects.h">
+      <Filter>MENU</Filter>
+    </ClInclude>
+    <ClInclude Include="MENU\menu_styles.h">
+      <Filter>MENU</Filter>
+    </ClInclude>
+    <ClInclude Include="AntiLeak.h" />
+    <ClInclude Include="AWHitmarkers.h" />
+    <ClInclude Include="includes.h" />
+    <ClInclude Include="AOtherHEader.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="StringEncryption.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeProfiler.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="NetVar.h">
+      <Filter>UTILS</Filter>
+    </ClInclude>
+    <ClInclude Include="Skinchanger.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="Stickerchanger.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="Glovechanger.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="recv.h">
+      <Filter>FEATURES</Filter>
+    </ClInclude>
+    <ClInclude Include="xdxdxd.h" />
+  </ItemGroup>
+</Project>
